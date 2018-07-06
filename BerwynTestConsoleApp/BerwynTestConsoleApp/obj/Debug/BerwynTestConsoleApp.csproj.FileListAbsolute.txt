@@ -1,0 +1,6 @@
+C:\Users\Velocity\Documents\Visual Studio 2013\Projects\BerwynTestConsoleApp\BerwynTestConsoleApp\bin\Debug\BerwynTestConsoleApp.exe.config
+C:\Users\Velocity\Documents\Visual Studio 2013\Projects\BerwynTestConsoleApp\BerwynTestConsoleApp\bin\Debug\BerwynTestConsoleApp.exe
+C:\Users\Velocity\Documents\Visual Studio 2013\Projects\BerwynTestConsoleApp\BerwynTestConsoleApp\bin\Debug\BerwynTestConsoleApp.pdb
+C:\Users\Velocity\Documents\Visual Studio 2013\Projects\BerwynTestConsoleApp\BerwynTestConsoleApp\obj\Debug\BerwynTestConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Velocity\Documents\Visual Studio 2013\Projects\BerwynTestConsoleApp\BerwynTestConsoleApp\obj\Debug\BerwynTestConsoleApp.exe
+C:\Users\Velocity\Documents\Visual Studio 2013\Projects\BerwynTestConsoleApp\BerwynTestConsoleApp\obj\Debug\BerwynTestConsoleApp.pdb
